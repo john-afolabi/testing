@@ -1,0 +1,20 @@
+body{
+	background-color:white;
+	text-align: center;
+}
+tr{
+	color: #45626A;
+	background-color: #E93D5F;
+	font-weight: bolder;
+
+
+}
+
+th{
+	font-weight: bold;
+	background: #100E17;
+	font-size: 110%;
+}
+tr,th,td{
+	border: black 3px solid;
+}
